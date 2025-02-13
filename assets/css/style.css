@@ -687,7 +687,7 @@ main {
     bottom: 80px;
     left: 10px;
     background: var(--black-opacity-90);
-    -webkit-filter: blur(10px);
+
     backdrop-filter: blur(10px);
     border-radius: 10px;
     max-width: 95%;
